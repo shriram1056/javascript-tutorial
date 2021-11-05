@@ -1,2 +1,16 @@
 # javascript-tutorial
-small java script projects made to learn important java script concept and flex my css skills in the process
+
+**The purpose of this project is to practice javascript.**
+
+_Note: Please excuse the large amount of comments in my code, they are used as notes for later review._
+
+### Familiarize myself with:</br>
+>* Asynchronous API (async/await)
+>* Objects
+>* function
+>* DOM (Document Object Model)
+>* ES6
+>* functions
+>* modules
+
+
