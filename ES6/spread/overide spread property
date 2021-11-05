@@ -1,0 +1,11 @@
+const person1 = { name: 'David Walsh', age: 33 };
+
+
+const merged = {...person1, name:wilson}
+/*
+Object {
+  "name": "wilson",
+  "age": 33,
+
+}
+*/
